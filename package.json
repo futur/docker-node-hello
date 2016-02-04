@@ -4,9 +4,9 @@
   "version": "0.0.1",
   "description": "Node.js Hello World app on Node : argon",
   "author": "Prem Kumar PG",
-  "main": "server.js",
+  "main": "index.js",
    "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "^4.13.3"
